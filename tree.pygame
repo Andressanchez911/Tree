@@ -59,3 +59,4 @@ pygame.draw.circle(screen, (0, 128, 0), (x + circle_x_Andres, y + circle_y_Andre
 # Update the display
 pygame.display.flip()
 clock.tick(30)
+
